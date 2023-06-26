@@ -40,3 +40,7 @@ sort out ssh business
 then brew install gh
 
 gh auth login
+
+then test push a repository
+
+then install vscode
