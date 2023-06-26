@@ -44,3 +44,5 @@ gh auth login
 then test push a repository
 
 then install vscode
+
+https://datumorphism.leima.is/til/programming/python/python-anaconda-install-requirements/
